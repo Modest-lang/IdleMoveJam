@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sol_wywalona_0: -1072427687835704785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
